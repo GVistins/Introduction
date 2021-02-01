@@ -5,5 +5,6 @@ Gustavs Vistiņš
 ## Izmantotā literatūra
 Super grāmata
 
-![Cool image](/Downloads/download.png)
-Format: ![Alt Text](url)
+*Italic text*
+**Bold text**
+__This is also bold text__
