@@ -6,5 +6,7 @@ Gustavs Vistiņš
 Super grāmata
 
 *Italic text*
+
 **Bold text**
+
 __This is also bold text__
