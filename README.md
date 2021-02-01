@@ -12,4 +12,4 @@ Super grāmata
 __This is also bold text__
 
 
-[Mykoob](http://mykoob.lv)
+[Google](http://google.com)
