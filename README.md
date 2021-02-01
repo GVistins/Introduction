@@ -13,3 +13,7 @@ __This is also bold text__
 
 
 [Google](http://google.com)
+
+
+
+![Image](https://en.wikipedia.org/wiki/Trollface#/media/File:Trollface_non-free.png)
