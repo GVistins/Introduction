@@ -1,3 +1,3 @@
-# Introduction to Got
+# Introduction to Git
 ## Author
 Gustavs Vistiņš
